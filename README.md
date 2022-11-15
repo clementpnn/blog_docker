@@ -13,14 +13,15 @@ The languages frameworks used on the project :
 
 All commands are run from the root of the project, from a terminal:
 
-| Command                  | Action                                             |
-| :----------------------- | :------------------------------------------------- |
-| `docker compose up -d`   | Create Docker container                            |
-| `docker compose down`    | Delete Docker container                            |
-| `cd app && pnpm install` | Installs dependencies                              |
+| Command                                                           | Action                         |
+| :---------------------------------------------------------------- | :----------------------------- |
+| `docker compose up -d`                                            | Create Docker container        |
+| `docker compose down`                                             | Delete Docker container        |
+| `cd app && pnpm install`                                          | Installs dependencies          |
+| `pnpx tailwindcss -i ./src/input.css -o ./src/output.css --watch` | look at the new tailwind class |
 
 ## 🔥 Start project
-
+ 
 Access to site from `http://localhost:1234/`
 
 Access at the database from `http://localhost:3306/`
