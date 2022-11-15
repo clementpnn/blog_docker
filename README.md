@@ -1,12 +1,37 @@
-# blog_docker
+# 🎉 Welcome to [blog_docker](https://github.com/clementpnn/blog_docker)
 
-## Getting Started
+<!-- ![basics](./src/images/home.png) -->
 
-0. Clone the repository
-1. Start docker, run `docker compose up -d`
-2. Create the server, on `http://localhost:1234/database/initdb.php`
-3. Open phpMyAdmin, on `http://localhost:3306/`
-   1. server : db
-   2. identifier : root
-   3. password : password
-4. login to the site, on `http://localhost:1234/`
+## 🚀 Technologies
+
+The languages frameworks used on the project :
+
+- [PHP](https://www.php.net/)
+- [Tailwind](https://tailwindcss.com)
+
+## 🧞 Commands
+
+All commands are run from the root of the project, from a terminal:
+
+| Command                  | Action                                             |
+| :----------------------- | :------------------------------------------------- |
+| `docker compose up -d`   | Create Docker container                            |
+| `docker compose down`    | Delete Docker container                            |
+| `cd app && pnpm install` | Installs dependencies                              |
+
+## 🔥 Start project
+
+Access to site from `http://localhost:1234/`
+
+Access at the database from `http://localhost:3306/`
+- server : db
+- identifier : root
+- password : password
+
+## 👀 Created by?
+
+[Clément](https://www.linkedin.com/in/clement-phlipponneau/) fullstack Developer
+
+[Dounia](https://www.linkedin.com/in/dounia-messaoui-65a81a224/) Data Engineer
+
+[Martin](https://www.linkedin.com/in/martin-reboutier/) Designer
