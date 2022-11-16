@@ -35,4 +35,4 @@ Access at the database from `http://localhost:3306/`
 
 [Dounia](https://www.linkedin.com/in/dounia-messaoui-65a81a224/) Data Engineer
 
-[Martin](https://www.linkedin.com/in/martin-reboutier/) Designer
+[Martin](https://www.linkedin.com/in/martin-reboutier/) Designer and Mobile Developer
