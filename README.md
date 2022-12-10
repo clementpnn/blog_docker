@@ -18,6 +18,7 @@ All commands are run from the root of the project, from a terminal:
 | `docker compose up -d`                                            | Create Docker container        |
 | `docker compose down`                                             | Delete Docker container        |
 | `cd app && pnpm install`                                          | Installs dependencies          |
+| `composer dump-autoload`                                          | Install  autoload              |
 | `pnpx tailwindcss -i ./src/input.css -o ./src/output.css --watch` | look at the new tailwind class |
 
 ## 🔥 Start project

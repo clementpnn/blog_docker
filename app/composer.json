@@ -1,8 +1,8 @@
 {
-    "name": "clement/app",
+    "name": "root/app",
     "autoload": {
         "psr-4": {
-            "Clement\\App\\": "src/"
+            "App\\": "src/"
         }
     },
     "require": {}
